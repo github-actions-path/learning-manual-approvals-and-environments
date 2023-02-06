@@ -1,4 +1,4 @@
-# 01_05-manual-approvals-and-environments
+# Manual-approvals-and-environments
 Use these files to test a manual deployment using environments protection rules.
 
 ## Set up the Workflow
